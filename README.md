@@ -1,7 +1,7 @@
-# Klarna Case Study
+# Case Study
 
 **Objective**
-Develop a model that predicts the probability of default of a customer on a purchase made with Klarna’s Pay Later payment method.
+Develop a model that predicts the probability of default of a customer on a purchase made with Pay Later payment method.
 
 **The solution should contain**
 - Code to host an API, which a reviewer should be able to host on their local system and
@@ -16,7 +16,7 @@ More details on the observations made, plots and so on are included in the noteb
 
 # Structure of the project
 ```
-klarna-case/
+case/
 ├─ 01-notebooks/
 │  ├─ 01_explore.ipynb 
 │  ├─ 02_features.ipynb
